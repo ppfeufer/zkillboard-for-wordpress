@@ -1,2 +1,1 @@
-# zkillboard-for-wordpress
-zKillboard for WordPress
+# zKillboard for WordPress
